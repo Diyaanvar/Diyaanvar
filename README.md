@@ -48,7 +48,7 @@ I enjoy building things, solving problems, and understanding how technology work
 ## 📬 Connect With Me  
 <p align="left">
 
-<a href="https://www.linkedin.com/in/diya-anvar-993049358/">
+<a href="https://www.linkedin.com/in/diya-p-a-/">
   <img src="https://img.icons8.com/ios-filled/100/FFFFFF/linkedin.png" width="50px"/>
 </a>
 
